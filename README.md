@@ -1,13 +1,46 @@
-## Hi there 👋
+<div align="center">
 
-## 👨‍🎓 About Me
-- 3rd-year university student, passionate about programming and software development
-- Actively looking for internship or full-time opportunities
+# Meidorislav
 
-## 🛠 Skills
-- **Languages:** Go, TypeScript
-- **Frameworks:** React
-- **Tools & Tech:** Git, Docker, PostgreSQL, Redis, RestAPI, WebSocket
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1000&color=A78BFA&center=true&vCenter=true&width=520&lines=Software+Engineer;Writing+Go;Looking+for+an+internship+or+full-time+role" alt="typing intro" />
+</a>
 
-## 📫 Contact Me
-- Telegram: [@meidorislav](https://t.me/meidorislav)
+<br/>
+
+<a href="https://t.me/meidorislav"><img src="https://img.shields.io/badge/Telegram-@meidorislav-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+<img src="https://img.shields.io/badge/Open%20to-Work-8B5CF6?style=for-the-badge" alt="Open to work"/>
+
+</div>
+
+<br/>
+
+## ✨ About me
+
+I'm a 4th-year university student who loves programming and building software —
+from clean backend services to interactive web interfaces.
+Right now I'm actively looking for an **internship** or **full-time** opportunity.
+
+<br/>
+
+## 🛠 Tech stack
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=go,ts&theme=dark" alt="languages"/>
+
+**Frameworks**
+
+<img src="https://skillicons.dev/icons?i=react&theme=dark" alt="frameworks"/>
+
+**Tools & Tech**
+
+<img src="https://skillicons.dev/icons?i=git,docker,postgres,redis,kafka&theme=dark" alt="tools"/>
+
+<img src="https://img.shields.io/badge/REST%20API-1f2937?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="REST API"/>
+<img src="https://img.shields.io/badge/WebSocket-1f2937?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSocket"/>
+
+</div>
+
