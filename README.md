@@ -1,6 +1,6 @@
 <div align="center">
 
-# Meidorislav
+<img src="assets/title.svg" alt="Meidorislav" width="640"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1000&color=A78BFA&center=true&vCenter=true&width=520&lines=Software+Engineer;Writing+Go;Looking+for+an+internship+or+full-time+role" alt="typing intro" />
