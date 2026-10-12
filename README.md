@@ -13,17 +13,6 @@
 
 </div>
 
-<br/>
-
-## ✨ About me
-
-I'm a 4th-year university student who loves programming and building software —
-from clean backend services to interactive web interfaces.
-Right now I'm actively looking for an **internship** or **full-time** opportunity.
-
-<br/>
-
-## 🛠 Tech stack
 
 <div align="center">
 
